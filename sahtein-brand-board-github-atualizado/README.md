@@ -50,13 +50,15 @@ Hugo Alves
 
 ## Preview
 
+## Preview
+
 <p align="center">
-  <img src="preview1.png" width="250"/>
-  <img src="preview2.png" width="250"/>
-  <img src="preview3.png" width="250"/>
+  <img src="assets/preview/preview1.png" width="250"/>
+  <img src="assets/preview/preview2.png" width="250"/>
+  <img src="assets/preview/preview3.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="preview4.png" width="250"/>
-  <img src="preview5.png" width="250"/>
+  <img src="assets/preview/preview4.png" width="250"/>
+  <img src="assets/preview/preview5.png" width="250"/>
 </p>
